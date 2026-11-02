@@ -27,6 +27,10 @@ A family of specialist UK job boards for the technologies shaping what comes nex
 
 More boards are coming soon, including AgriTech, Defence Tech, FinTech, Genomics, Hydrogen, Nuclear Fusion and Photonics.
 
+## Good Faith Hiring
+
+[Good Faith Hiring](https://goodfaithhiring.co.uk) is a set of eight simple commitments for employers and eight for the people applying to them. It's free to adopt and written in the open. The current draft is open for comment in [good-faith-hiring](https://github.com/Future-Tech-Jobs/good-faith-hiring).
+
 ## For candidates
 
 Search roles by field, location and salary. Create one account to apply on every board, keep your CV in one place and set up job alerts.
